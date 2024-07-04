@@ -1,4 +1,4 @@
-# Hi there 👋, Hi, my name is **Lautaro**
+# Hi there 👋, my name is **Lautaro**
 ## **Developer and Senior IT Auditor**
 
 
