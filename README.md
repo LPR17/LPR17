@@ -7,7 +7,7 @@ I'm a developer with a passion for exploring the intersections of technology and
 
 ## **Skills**
 
-Skills: PYTHON / SOLIDITY / RUST / GIT / REACT / JS / HTML / CSS
+Skills: PYTHON / SOLIDITY / RUST / GIT / HTML / CSS
 
 
 
